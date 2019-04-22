@@ -1,0 +1,8 @@
+endpoint.gateway.customerIds: http://gateway-service/gateway/account/customers
+endpoint.gateway.customer.details: http://gateway-service/gateway/account/{customerId}
+endpoint.gateway.customer.addAccount: http://gateway-service/gateway/customer/addAccount
+endpoint.gateway.customer.addTransaction: http://gateway-service/gateway/customer/transaction
+server:
+  port: 8090
+  servlet:
+    context-path: /ui
