@@ -13,6 +13,7 @@ public class BlueHarvestApiApplication
 
 {
 
+	
 	public static void main(String[] args) {
 		SpringApplication.run(BlueHarvestApiApplication.class, args);
 	}
