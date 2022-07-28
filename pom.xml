@@ -13,6 +13,7 @@
 	<artifactId>TransactionAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>BlueHarvestAPI</name>
+	<packaging>war</packaging>
 	<description>Blue Harvest Customer API</description>
 
 	<properties>
